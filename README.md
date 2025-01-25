@@ -1,3 +1,5 @@
+![walmart_project-piplelines](https://github.com/user-attachments/assets/d14d4156-439c-4602-a452-febc6661ca1e)
+
 # Walmart Data Analysis: End-to-End SQL + Python Project P-9
 
 ## Project Overview
